@@ -16,7 +16,7 @@ This is helpful for:
 ---
 
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3
 - Linux OS (Ubuntu, Debian, Fedora etc.)
