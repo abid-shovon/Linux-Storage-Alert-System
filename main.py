@@ -9,7 +9,7 @@ THRESHOLD = 80
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SENDER_MAIL = "abidshovon945@gmail.com"
-SENDER_PASSWORD = "zskc yvlo uevj tafm"
+SENDER_PASSWORD = "---- ---- ---- ----"    # Use 16 digit gmail app password. Ex: "zskc yvlo uevj tafm"
 RECEIVED_MAIL = "shovonhasan333@gmail.com"
 
 def check_disk_usage():
